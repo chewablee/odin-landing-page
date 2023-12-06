@@ -1,1 +1,2 @@
 # odin-landing-page
+This is a project made for the TheOdinProject curriculum, showcasing a landing page made from scratch with HTML and CSS to test my skills and measure the level I am currently at, as well as gain more insight as to how to make a full website (without Javascript functionality) from scratch. Please enjoy!
