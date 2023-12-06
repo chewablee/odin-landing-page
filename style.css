@@ -160,3 +160,34 @@ a {
     font-weight: bold;
     font-size: 20px;
 }
+
+/* ## Fourth Section */
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.smol {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    display: flex;
+    padding: 30px 80px;
+    border-radius: 5px;
+    gap: 50px;
+}
+
+.header1 {
+    font-weight: 900;
+}
+
+.signup2 {
+    background-color: hsl(217, 91%, 59%);
+    border: 2px solid white;
+    color: white;
+    font-weight: 600;
+    padding: 8px 30px;
+    border-radius: 5px;
+}
